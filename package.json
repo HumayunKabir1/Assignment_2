@@ -1,0 +1,22 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "multiplayer application using socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HumayunKabir1/Assignment_2.git"
+  },
+  "author": "Humayun Kabir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HumayunKabir1/Assignment_2/issues"
+  },
+  "homepage": "https://github.com/HumayunKabir1/Assignment_2#readme",
+  "dependencies": {
+    "socket.io": "^2.1.1"
+  }
+}
